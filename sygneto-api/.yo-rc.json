@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.sygneto"
+    },
+    "jhipsterVersion": "6.4.1",
+    "applicationType": "monolith",
+    "baseName": "SygnetoApi",
+    "packageName": "com.sygneto",
+    "packageFolder": "com/sygneto",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTc4NDY5ZjZhZTA1N2RhYjkzZWI5NmE5Y2FhYWViOGY1NjM1NThiYzUxN2Y2YTlmNzQxNTUxYmJiZjQyNzJiNWI0N2I4ZTZlMTA0ZmUwMzA3YzlkZjQ0YzIzMDA2OGY1ZTc4MGNjOGQ1NjZkZjAyNTc2NmViZjhmNTNiMGFmNTQ=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true
+  }
+}
